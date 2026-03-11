@@ -35,19 +35,7 @@
 
 ## 📫 Let's connect!
 <p align="left">
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/matheus-reis-336a382a6/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 </p>
-
----
-
-## 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sykesmatheus/sykesmatheus/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sykesmatheus/sykesmatheus/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sykesmatheus/sykesmatheus/output/github-contribution-grid-snake.svg">
-</picture>
