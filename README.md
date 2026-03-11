@@ -30,10 +30,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sykesmatheus&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" height="180em" />
 </p>
 
-### 🔥 Streak de Contribuições
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USER_AQUI&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
